@@ -1,0 +1,2 @@
+function e(t,a){return{description:'"Join us in providing immediate relief and long-term support for those affected by the Palisades Fires and other Southern California disasters. From debris removal to community aid, every effort helps restore hope."',favicon:"https://framerusercontent.com/assets/G1EdXwK68wwuMdHIMlItnKfSbE.svg",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/JgtgXbuSpEpxNsDOU2DcBHKH0.png",title:"LA County & SoCal Fire Relief"}}export{e as a};
+//# sourceMappingURL=chunk-I5GXFS5R.mjs.map
